@@ -1,0 +1,8 @@
+Progress log for WebSecService 
+"Part 1 - Environment & server running done" 
+Part 2 - Database configured done 
+Part 6 - ProductController done 
+Part 7 - storage link done 
+Part 8 - products routes added done 
+Part 9 - product views done 
+Part 7 - show/edit product views done 
