@@ -6,3 +6,4 @@ Part 7 - storage link done
 Part 8 - products routes added done 
 Part 9 - product views done 
 Part 7 - show/edit product views done 
+Lab 1/1 - GitHub project setup done 
